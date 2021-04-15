@@ -114,6 +114,8 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
+  - logo: Pokemo
+    URL: "/images/des-pokemons-de-la-premiere-generation-dr-1614337670.jpg"
   - logo: Pokemon
     URL: "/images/serviettes-pokemon-lot-de-16.jpg"
   - logo: images/clients-logo/client-logo-3.png
