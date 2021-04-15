@@ -25,8 +25,8 @@ team:
   - title: 'Ondine '
     image: "/images/ondine-lgpe.png"
     designation: Web Developer
-  - title: John Doe
-    image: images/team/member-3.png
+  - title: Pierre
+    image: "/images/pierre_habits_sl.png"
     designation: Designer
 clients_logo_slider:
   enable: true
