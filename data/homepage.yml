@@ -114,6 +114,8 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
+  - logo: "/images/pokemon-platine-section-001-chapitre-005.png"
+    URL: "/images/pokemon-platine-section-001-chapitre-005.png"
   - logo: "/images/images.jpg"
     URL: "/images/images.jpg"
 blog:
