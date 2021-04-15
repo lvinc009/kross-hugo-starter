@@ -2,7 +2,7 @@ baseURL = "/"
 languageCode = "en-us"
 summaryLength = "10"
 theme = "kross-hugo"
-title = "Lolo website"
+title = "no"
 [[menu.main]]
 URL = "about"
 name = "About"
@@ -21,7 +21,7 @@ name = "Contact"
 weight = 5
 [params]
 address = "125/A, CA Commercial Area, California, USA"
-author = "Lorraine VINCENT"
+author = "Johnathan Smith"
 copyright = "Copyrighht &copy; 2020 a theme by [gethugothemes](https://gethugothemes.com)"
 description = "This is meta description"
 email = "steve.fruits@email.com"
@@ -32,7 +32,7 @@ phone = "+880 2544 658 256"
 theme_color = "#41228e"
 [params.contact]
 enable = true
-form_action = "https://getform.io/f/2b7c652c-8e80-40d3-bcb7-9b56a49304f0"
+form_action = "#"
 [[params.plugins.css]]
 URL = "plugins/bootstrap/bootstrap.min.css"
 [[params.plugins.css]]
