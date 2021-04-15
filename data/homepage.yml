@@ -114,16 +114,8 @@ testimonial:
 clients_logo_slider:
   enable: true
   item:
-  - logo: "/images/des-pokemons-de-la-premiere-generation-dr-1614337670.jpg"
-    URL: "/images/des-pokemons-de-la-premiere-generation-dr-1614337670.jpg"
-  - logo: "/images/serviettes-pokemon-lot-de-16.jpg"
-    URL: "/images/serviettes-pokemon-lot-de-16.jpg"
-  - logo: images/clients-logo/client-logo-3.png
-    URL: "#"
-  - logo: images/clients-logo/client-logo-4.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-5.png
-    URL: "#"
+  - logo: "/images/images.jpg"
+    URL: "/images/images.jpg"
 blog:
   enable: true
   title: Blogs
